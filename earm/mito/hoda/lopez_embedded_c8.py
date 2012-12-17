@@ -14,6 +14,7 @@ lopez_modules.momp_monomers()
 Observable('mBid', Bid(state='M'))
 Observable('aBax', Bax(state='A'))
 Observable('cSmac', Smac(state='C'))
+Observable('tBid', Bid(state='T'))
 
 # The specific MOMP model to use
 lopez_modules.embedded()
