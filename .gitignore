@@ -3,6 +3,7 @@
 *#
 *.swp
 .DS_Store
+*.m
 *.ka
 *.out
 *.gv
